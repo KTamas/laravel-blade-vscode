@@ -1,5 +1,6 @@
 # README
-## This is the README for your extension "laravel-blade" 
+
+Based on [https://github.com/loranger/Laravel.tmbundle](loranger's Laravel.tmbundle). 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
