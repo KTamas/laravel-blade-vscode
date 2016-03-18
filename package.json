@@ -13,7 +13,7 @@
 	"contributes": {
 		"languages": [{
 			"id": "laravel-blade",
-			"aliases": ["PHP - Laravel Blade", "laravel-blade"],
+			"aliases": ["PHP - Laravel Blade", "laravel-blade", "blade"],
 			"extensions": [".blade.php"],
 			"configuration": "./laravel-blade.configuration.json"
 		}],
