@@ -3,7 +3,7 @@
 	"displayName": "laravel-blade",
 	"description": "Blade support for VSCode",
 	"version": "0.0.1",
-	"publisher": "KTamas (ktamas@ktamas.com)",
+	"publisher": "Tamás Kádár (KTamas) (ktamas@ktamas.com)",
 	"engines": {
 		"vscode": "^0.10.10"
 	},
