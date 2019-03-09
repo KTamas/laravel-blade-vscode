@@ -1,3 +1,1 @@
-# README
-
-Based on [loranger's Laravel.tmbundle](https://github.com/loranger/Laravel.tmbundle).
+THIS EXTENSION IS DEPRECATED AND SHOULD NOT BE USED. There are better alternatives out there.
